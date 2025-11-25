@@ -1,0 +1,25 @@
+.colorPrincipal{
+    background-color: aqua;
+}
+.btn-primary{
+    background-color:rgb(44, 195, 255)important;
+    border-color: rgb(53, 177, 222) important;
+}
+.btn-primary:hover{
+    background-color:rgb(179, 0, 255) inportant;
+    border-color:rgb(221, 0, 255) inportant;
+}
+.fondo{
+    background-image: url(img/fondo.jpeg);
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+}
+.fondo2{
+    background-image: url(img/fondo2.jpeg);
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    background-attachment: fixed;
+}
